@@ -1,0 +1,16 @@
+The bundled Ecovacs component is derived from Home Assistant Core 2026.11.3.
+Copyright Home Assistant contributors. Original code is under the Apache
+License 2.0; its license text is included in licenses/Apache-2.0.txt.
+Modified upstream files: config_flow.py, controller.py and manifest.json.
+The generated English translation resolves the upstream translation references.
+
+The HTTP/RSA test helpers in tests/upstream_auth_helpers.py are adapted from
+DeebotUniverse/client.py, tag 18.7.0, commit
+4ffed4097bf1169bdc8d9d5c051fd77cbe4d856c.
+Copyright the original project contributors. GPL-3.0-or-later.
+
+The temporary adapter, tests and distribution are provided under
+GPL-3.0-or-later; see LICENSE. Original upstream notices remain applicable.
+
+Protocol research credit: sdteam-stefano, Home Assistant Core issue #194725.
+This project is not an official release of either upstream project.
